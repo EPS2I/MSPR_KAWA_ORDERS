@@ -1,4 +1,4 @@
-package com.mspr_kawa.orders.main;
+package com.mspr_kawa.sales.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
