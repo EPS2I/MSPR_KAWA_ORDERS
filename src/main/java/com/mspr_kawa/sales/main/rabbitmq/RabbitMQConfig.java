@@ -31,8 +31,6 @@ public class RabbitMQConfig {
     public Queue JsonQueue() {
         return new Queue(queueJson);
     }
-
-
     @Bean
     public TopicExchange topicExchange() {
         return new TopicExchange(exchange);
